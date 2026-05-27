@@ -15,6 +15,7 @@ class CfgPatches
 class CfgVehicles
 {
   class PlateCarrierPouches;
+
   class PlateCarrierPouches_WorldCup_USA: PlateCarrierPouches
   {
     hiddenSelections[]=
@@ -26,6 +27,20 @@ class CfgVehicles
       "DayZ_World_Cup_Gear\characters\vests\data\ballisticvest_usa_co.paa",
       "DayZ_World_Cup_Gear\characters\vests\data\ballisticvest_usa_co.paa",
       "DayZ_World_Cup_Gear\characters\vests\data\ballisticvest_usa_co.paa"
+    };
+  };
+
+  class PlateCarrierPouches_WorldCup_Brazil: PlateCarrierPouches
+  {
+    hiddenSelections[]=
+    {
+      "camoGround"
+    };
+    hiddenSelectionsTextures[]=
+    {
+      "DayZ_World_Cup_Gear\characters\vests\data\ballisticvest_brazil_co.paa",
+      "DayZ_World_Cup_Gear\characters\vests\data\ballisticvest_brazil_co.paa",
+      "DayZ_World_Cup_Gear\characters\vests\data\ballisticvest_brazil_co.paa"
     };
   };
 };
