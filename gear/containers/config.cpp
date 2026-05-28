@@ -18,7 +18,7 @@ class CfgVehicles
 
   class PlateCarrierPouches_WorldCup_USA: PlateCarrierPouches
   {
-    displayName="$STR_CfgVehicles_CarrierPouches0 (USA)";
+    displayName="$STR_CfgVehicles_CarrierPouches0 ($STR_DZWCG_Country_USA)";
     hiddenSelections[]=
     {
       "camoGround"
@@ -33,7 +33,7 @@ class CfgVehicles
 
   class PlateCarrierPouches_WorldCup_Brazil: PlateCarrierPouches
   {
-    displayName="$STR_CfgVehicles_CarrierPouches0 (Brazil)";
+    displayName="$STR_CfgVehicles_CarrierPouches0 ($STR_DZWCG_Country_Brazil)";
     hiddenSelections[]=
     {
       "camoGround"
@@ -48,7 +48,7 @@ class CfgVehicles
 
   class PlateCarrierPouches_WorldCup_Canada: PlateCarrierPouches
   {
-    displayName="$STR_CfgVehicles_CarrierPouches0 (Canada)";
+    displayName="$STR_CfgVehicles_CarrierPouches0 ($STR_DZWCG_Country_Canada)";
     hiddenSelections[]=
     {
       "camoGround"
@@ -63,7 +63,7 @@ class CfgVehicles
 
   class PlateCarrierPouches_WorldCup_Denmark: PlateCarrierPouches
   {
-    displayName="$STR_CfgVehicles_CarrierPouches0 (Denmark)";
+    displayName="$STR_CfgVehicles_CarrierPouches0 ($STR_DZWCG_Country_Denmark)";
     hiddenSelections[]=
     {
       "camoGround"
@@ -78,7 +78,7 @@ class CfgVehicles
 
   class PlateCarrierPouches_WorldCup_England: PlateCarrierPouches
   {
-    displayName="$STR_CfgVehicles_CarrierPouches0 (England)";
+    displayName="$STR_CfgVehicles_CarrierPouches0 ($STR_DZWCG_Country_England)";
     hiddenSelections[]=
     {
       "camoGround"
@@ -93,7 +93,7 @@ class CfgVehicles
 
   class PlateCarrierPouches_WorldCup_France: PlateCarrierPouches
   {
-    displayName="$STR_CfgVehicles_CarrierPouches0 (France)";
+    displayName="$STR_CfgVehicles_CarrierPouches0 ($STR_DZWCG_Country_France)";
     hiddenSelections[]=
     {
       "camoGround"
@@ -108,7 +108,7 @@ class CfgVehicles
 
   class PlateCarrierPouches_WorldCup_Ireland: PlateCarrierPouches
   {
-    displayName="$STR_CfgVehicles_CarrierPouches0 (Ireland)";
+    displayName="$STR_CfgVehicles_CarrierPouches0 ($STR_DZWCG_Country_Ireland)";
     hiddenSelections[]=
     {
       "camoGround"
@@ -123,7 +123,7 @@ class CfgVehicles
 
   class PlateCarrierPouches_WorldCup_Italy: PlateCarrierPouches
   {
-    displayName="$STR_CfgVehicles_CarrierPouches0 (Italy)";
+    displayName="$STR_CfgVehicles_CarrierPouches0 ($STR_DZWCG_Country_Italy)";
     hiddenSelections[]=
     {
       "camoGround"
@@ -138,7 +138,7 @@ class CfgVehicles
 
   class PlateCarrierPouches_WorldCup_Portugal: PlateCarrierPouches
   {
-    displayName="$STR_CfgVehicles_CarrierPouches0 (Portugal)";
+    displayName="$STR_CfgVehicles_CarrierPouches0 ($STR_DZWCG_Country_Portugal)";
     hiddenSelections[]=
     {
       "camoGround"
@@ -153,7 +153,7 @@ class CfgVehicles
 
   class PlateCarrierPouches_WorldCup_Scotland: PlateCarrierPouches
   {
-    displayName="$STR_CfgVehicles_CarrierPouches0 (Scotland)";
+    displayName="$STR_CfgVehicles_CarrierPouches0 ($STR_DZWCG_Country_Scotland)";
     hiddenSelections[]=
     {
       "camoGround"
@@ -168,7 +168,7 @@ class CfgVehicles
 
   class PlateCarrierPouches_WorldCup_SouthAfrica: PlateCarrierPouches
   {
-    displayName="$STR_CfgVehicles_CarrierPouches0 (South Africa)";
+    displayName="$STR_CfgVehicles_CarrierPouches0 ($STR_DZWCG_Country_SouthAfrica)";
     hiddenSelections[]=
     {
       "camoGround"
@@ -183,7 +183,7 @@ class CfgVehicles
 
   class PlateCarrierPouches_WorldCup_SouthKorea: PlateCarrierPouches
   {
-    displayName="$STR_CfgVehicles_CarrierPouches0 (South Korea)";
+    displayName="$STR_CfgVehicles_CarrierPouches0 ($STR_DZWCG_Country_SouthKorea)";
     hiddenSelections[]=
     {
       "camoGround"
@@ -198,7 +198,7 @@ class CfgVehicles
 
   class PlateCarrierPouches_WorldCup_Sweden: PlateCarrierPouches
   {
-    displayName="$STR_CfgVehicles_CarrierPouches0 (Sweden)";
+    displayName="$STR_CfgVehicles_CarrierPouches0 ($STR_DZWCG_Country_Sweden)";
     hiddenSelections[]=
     {
       "camoGround"
@@ -213,7 +213,7 @@ class CfgVehicles
 
   class PlateCarrierPouches_WorldCup_Wales: PlateCarrierPouches
   {
-    displayName="$STR_CfgVehicles_CarrierPouches0 (Wales)";
+    displayName="$STR_CfgVehicles_CarrierPouches0 ($STR_DZWCG_Country_Wales)";
     hiddenSelections[]=
     {
       "camoGround"
