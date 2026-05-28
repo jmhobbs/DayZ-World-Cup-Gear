@@ -1,0 +1,559 @@
+<!-- Brazil -->
+<type name="Mich2001Helmet_WorldCup_Brazil">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <usage name="Underground"/>
+  <value name="Tier3"/>
+</type>
+<type name="PlateCarrierPouches_WorldCup_Brazil">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <tag name="shelves"/>
+  <usage name="Military"/>
+</type>
+<type name="PlateCarrierVest_WorldCup_Brazil">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <usage name="Military"/>
+</type>
+
+<!-- Canada -->
+<type name="Mich2001Helmet_WorldCup_Canada">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <usage name="Underground"/>
+  <value name="Tier3"/>
+</type>
+<type name="PlateCarrierPouches_WorldCup_Canada">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <tag name="shelves"/>
+  <usage name="Military"/>
+</type>
+<type name="PlateCarrierVest_WorldCup_Canada">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <usage name="Military"/>
+</type>
+
+<!-- Denmark -->
+<type name="Mich2001Helmet_WorldCup_Denmark">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <usage name="Underground"/>
+  <value name="Tier3"/>
+</type>
+<type name="PlateCarrierPouches_WorldCup_Denmark">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <tag name="shelves"/>
+  <usage name="Military"/>
+</type>
+<type name="PlateCarrierVest_WorldCup_Denmark">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <usage name="Military"/>
+</type>
+
+<!-- England -->
+<type name="Mich2001Helmet_WorldCup_England">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <usage name="Underground"/>
+  <value name="Tier3"/>
+</type>
+<type name="PlateCarrierPouches_WorldCup_England">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <tag name="shelves"/>
+  <usage name="Military"/>
+</type>
+<type name="PlateCarrierVest_WorldCup_England">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <usage name="Military"/>
+</type>
+
+<!-- France -->
+<type name="Mich2001Helmet_WorldCup_France">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <usage name="Underground"/>
+  <value name="Tier3"/>
+</type>
+<type name="PlateCarrierPouches_WorldCup_France">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <tag name="shelves"/>
+  <usage name="Military"/>
+</type>
+<type name="PlateCarrierVest_WorldCup_France">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <usage name="Military"/>
+</type>
+
+<!-- Ireland -->
+<type name="Mich2001Helmet_WorldCup_Ireland">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <usage name="Underground"/>
+  <value name="Tier3"/>
+</type>
+<type name="PlateCarrierPouches_WorldCup_Ireland">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <tag name="shelves"/>
+  <usage name="Military"/>
+</type>
+<type name="PlateCarrierVest_WorldCup_Ireland">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <usage name="Military"/>
+</type>
+
+<!-- Italy -->
+<type name="Mich2001Helmet_WorldCup_Italy">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <usage name="Underground"/>
+  <value name="Tier3"/>
+</type>
+<type name="PlateCarrierPouches_WorldCup_Italy">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <tag name="shelves"/>
+  <usage name="Military"/>
+</type>
+<type name="PlateCarrierVest_WorldCup_Italy">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <usage name="Military"/>
+</type>
+
+<!-- Portugal -->
+<type name="Mich2001Helmet_WorldCup_Portugal">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <usage name="Underground"/>
+  <value name="Tier3"/>
+</type>
+<type name="PlateCarrierPouches_WorldCup_Portugal">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <tag name="shelves"/>
+  <usage name="Military"/>
+</type>
+<type name="PlateCarrierVest_WorldCup_Portugal">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <usage name="Military"/>
+</type>
+
+<!-- Scotland -->
+<type name="Mich2001Helmet_WorldCup_Scotland">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <usage name="Underground"/>
+  <value name="Tier3"/>
+</type>
+<type name="PlateCarrierPouches_WorldCup_Scotland">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <tag name="shelves"/>
+  <usage name="Military"/>
+</type>
+<type name="PlateCarrierVest_WorldCup_Scotland">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <usage name="Military"/>
+</type>
+
+<!-- South Africa -->
+<type name="Mich2001Helmet_WorldCup_SouthAfrica">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <usage name="Underground"/>
+  <value name="Tier3"/>
+</type>
+<type name="PlateCarrierPouches_WorldCup_SouthAfrica">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <tag name="shelves"/>
+  <usage name="Military"/>
+</type>
+<type name="PlateCarrierVest_WorldCup_SouthAfrica">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <usage name="Military"/>
+</type>
+
+<!-- South Korea -->
+<type name="Mich2001Helmet_WorldCup_SouthKorea">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <usage name="Underground"/>
+  <value name="Tier3"/>
+</type>
+<type name="PlateCarrierPouches_WorldCup_SouthKorea">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <tag name="shelves"/>
+  <usage name="Military"/>
+</type>
+<type name="PlateCarrierVest_WorldCup_SouthKorea">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <usage name="Military"/>
+</type>
+
+<!-- Sweden -->
+<type name="Mich2001Helmet_WorldCup_Sweden">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <usage name="Underground"/>
+  <value name="Tier3"/>
+</type>
+<type name="PlateCarrierPouches_WorldCup_Sweden">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <tag name="shelves"/>
+  <usage name="Military"/>
+</type>
+<type name="PlateCarrierVest_WorldCup_Sweden">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <usage name="Military"/>
+</type>
+
+<!-- USA -->
+<type name="Mich2001Helmet_WorldCup_USA">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <usage name="Underground"/>
+  <value name="Tier3"/>
+</type>
+<type name="PlateCarrierPouches_WorldCup_USA">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <tag name="shelves"/>
+  <usage name="Military"/>
+</type>
+<type name="PlateCarrierVest_WorldCup_USA">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <usage name="Military"/>
+</type>
+
+<!-- Wales -->
+<type name="Mich2001Helmet_WorldCup_Wales">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <usage name="Underground"/>
+  <value name="Tier3"/>
+</type>
+<type name="PlateCarrierPouches_WorldCup_Wales">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <tag name="shelves"/>
+  <usage name="Military"/>
+</type>
+<type name="PlateCarrierVest_WorldCup_Wales">
+  <nominal>0</nominal>
+  <lifetime>14400</lifetime>
+  <restock>0</restock>
+  <min>0</min>
+  <quantmin>-1</quantmin>
+  <quantmax>-1</quantmax>
+  <cost>100</cost>
+  <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+  <category name="clothes"/>
+  <usage name="Military"/>
+</type>
