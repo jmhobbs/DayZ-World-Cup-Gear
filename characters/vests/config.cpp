@@ -14,7 +14,7 @@ class CfgVehicles
 
   class PlateCarrierVest_WorldCup_USA: PlateCarrierVest
   {
-    displayName="$STR_CfgVehicles_PlateCarrierBlank0 ($STR_DZWCG_Country_USA)";
+    displayName="$STR_DZWCG_platecarrierblank0_USA";
     hiddenSelections[]=
     {
       "camoGround",
@@ -31,7 +31,7 @@ class CfgVehicles
 
   class PlateCarrierVest_WorldCup_Brazil: PlateCarrierVest
   {
-    displayName="$STR_CfgVehicles_PlateCarrierBlank0 ($STR_DZWCG_Country_Brazil)";
+    displayName="$STR_DZWCG_platecarrierblank0_Brazil";
     hiddenSelections[]=
     {
       "camoGround",
@@ -48,7 +48,7 @@ class CfgVehicles
 
   class PlateCarrierVest_WorldCup_Canada: PlateCarrierVest
   {
-    displayName="$STR_CfgVehicles_PlateCarrierBlank0 ($STR_DZWCG_Country_Canada)";
+    displayName="$STR_DZWCG_platecarrierblank0_Canada";
     hiddenSelections[]=
     {
       "camoGround",
@@ -65,7 +65,7 @@ class CfgVehicles
 
   class PlateCarrierVest_WorldCup_Denmark: PlateCarrierVest
   {
-    displayName="$STR_CfgVehicles_PlateCarrierBlank0 ($STR_DZWCG_Country_Denmark)";
+    displayName="$STR_DZWCG_platecarrierblank0_Denmark";
     hiddenSelections[]=
     {
       "camoGround",
@@ -82,7 +82,7 @@ class CfgVehicles
 
   class PlateCarrierVest_WorldCup_England: PlateCarrierVest
   {
-    displayName="$STR_CfgVehicles_PlateCarrierBlank0 ($STR_DZWCG_Country_England)";
+    displayName="$STR_DZWCG_platecarrierblank0_England";
     hiddenSelections[]=
     {
       "camoGround",
@@ -99,7 +99,7 @@ class CfgVehicles
 
   class PlateCarrierVest_WorldCup_France: PlateCarrierVest
   {
-    displayName="$STR_CfgVehicles_PlateCarrierBlank0 ($STR_DZWCG_Country_France)";
+    displayName="$STR_DZWCG_platecarrierblank0_France";
     hiddenSelections[]=
     {
       "camoGround",
@@ -116,7 +116,7 @@ class CfgVehicles
 
   class PlateCarrierVest_WorldCup_Ireland: PlateCarrierVest
   {
-    displayName="$STR_CfgVehicles_PlateCarrierBlank0 ($STR_DZWCG_Country_Ireland)";
+    displayName="$STR_DZWCG_platecarrierblank0_Ireland";
     hiddenSelections[]=
     {
       "camoGround",
@@ -133,7 +133,7 @@ class CfgVehicles
 
   class PlateCarrierVest_WorldCup_Italy: PlateCarrierVest
   {
-    displayName="$STR_CfgVehicles_PlateCarrierBlank0 ($STR_DZWCG_Country_Italy)";
+    displayName="$STR_DZWCG_platecarrierblank0_Italy";
     hiddenSelections[]=
     {
       "camoGround",
@@ -150,7 +150,7 @@ class CfgVehicles
 
   class PlateCarrierVest_WorldCup_Portugal: PlateCarrierVest
   {
-    displayName="$STR_CfgVehicles_PlateCarrierBlank0 ($STR_DZWCG_Country_Portugal)";
+    displayName="$STR_DZWCG_platecarrierblank0_Portugal";
     hiddenSelections[]=
     {
       "camoGround",
@@ -167,7 +167,7 @@ class CfgVehicles
 
   class PlateCarrierVest_WorldCup_Scotland: PlateCarrierVest
   {
-    displayName="$STR_CfgVehicles_PlateCarrierBlank0 ($STR_DZWCG_Country_Scotland)";
+    displayName="$STR_DZWCG_platecarrierblank0_Scotland";
     hiddenSelections[]=
     {
       "camoGround",
@@ -184,7 +184,7 @@ class CfgVehicles
 
   class PlateCarrierVest_WorldCup_SouthAfrica: PlateCarrierVest
   {
-    displayName="$STR_CfgVehicles_PlateCarrierBlank0 ($STR_DZWCG_Country_SouthAfrica)";
+    displayName="$STR_DZWCG_platecarrierblank0_SouthAfrica";
     hiddenSelections[]=
     {
       "camoGround",
@@ -201,7 +201,7 @@ class CfgVehicles
 
   class PlateCarrierVest_WorldCup_SouthKorea: PlateCarrierVest
   {
-    displayName="$STR_CfgVehicles_PlateCarrierBlank0 ($STR_DZWCG_Country_SouthKorea)";
+    displayName="$STR_DZWCG_platecarrierblank0_SouthKorea";
     hiddenSelections[]=
     {
       "camoGround",
@@ -218,7 +218,7 @@ class CfgVehicles
 
   class PlateCarrierVest_WorldCup_Sweden: PlateCarrierVest
   {
-    displayName="$STR_CfgVehicles_PlateCarrierBlank0 ($STR_DZWCG_Country_Sweden)";
+    displayName="$STR_DZWCG_platecarrierblank0_Sweden";
     hiddenSelections[]=
     {
       "camoGround",
@@ -235,7 +235,7 @@ class CfgVehicles
 
   class PlateCarrierVest_WorldCup_Wales: PlateCarrierVest
   {
-    displayName="$STR_CfgVehicles_PlateCarrierBlank0 ($STR_DZWCG_Country_Wales)";
+    displayName="$STR_DZWCG_platecarrierblank0_Wales";
     hiddenSelections[]=
     {
       "camoGround",
