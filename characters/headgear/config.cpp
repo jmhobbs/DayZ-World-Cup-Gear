@@ -16,6 +16,12 @@ class CfgVehicles
   {
     scope=2;
     displayName="$STR_DZWCG_mich2001helmet0_USA";
+    hiddenSelections[]=
+		{
+			"camoGround",
+			"camoMale",
+			"camoFemale"
+		};
     hiddenSelectionsTextures[]=
     {
       "DayZ_World_Cup_Gear\characters\headgear\data\mich2001_usa_co.paa",
@@ -28,6 +34,12 @@ class CfgVehicles
   {
     scope=2;
     displayName="$STR_DZWCG_mich2001helmet0_Brazil";
+    hiddenSelections[]=
+		{
+			"camoGround",
+			"camoMale",
+			"camoFemale"
+		};
     hiddenSelectionsTextures[]=
     {
       "DayZ_World_Cup_Gear\characters\headgear\data\mich2001_brazil_co.paa",
@@ -40,6 +52,12 @@ class CfgVehicles
   {
     scope=2;
     displayName="$STR_DZWCG_mich2001helmet0_Canada";
+    hiddenSelections[]=
+		{
+			"camoGround",
+			"camoMale",
+			"camoFemale"
+		};
     hiddenSelectionsTextures[]=
     {
       "DayZ_World_Cup_Gear\characters\headgear\data\mich2001_canada_co.paa",
@@ -52,6 +70,12 @@ class CfgVehicles
   {
     scope=2;
     displayName="$STR_DZWCG_mich2001helmet0_Denmark";
+    hiddenSelections[]=
+		{
+			"camoGround",
+			"camoMale",
+			"camoFemale"
+		};
     hiddenSelectionsTextures[]=
     {
       "DayZ_World_Cup_Gear\characters\headgear\data\mich2001_denmark_co.paa",
@@ -64,6 +88,12 @@ class CfgVehicles
   {
     scope=2;
     displayName="$STR_DZWCG_mich2001helmet0_England";
+    hiddenSelections[]=
+		{
+			"camoGround",
+			"camoMale",
+			"camoFemale"
+		};
     hiddenSelectionsTextures[]=
     {
       "DayZ_World_Cup_Gear\characters\headgear\data\mich2001_england_co.paa",
@@ -76,6 +106,12 @@ class CfgVehicles
   {
     scope=2;
     displayName="$STR_DZWCG_mich2001helmet0_France";
+    hiddenSelections[]=
+		{
+			"camoGround",
+			"camoMale",
+			"camoFemale"
+		};
     hiddenSelectionsTextures[]=
     {
       "DayZ_World_Cup_Gear\characters\headgear\data\mich2001_france_co.paa",
@@ -88,6 +124,12 @@ class CfgVehicles
   {
     scope=2;
     displayName="$STR_DZWCG_mich2001helmet0_Ireland";
+    hiddenSelections[]=
+		{
+			"camoGround",
+			"camoMale",
+			"camoFemale"
+		};
     hiddenSelectionsTextures[]=
     {
       "DayZ_World_Cup_Gear\characters\headgear\data\mich2001_ireland_co.paa",
@@ -100,6 +142,12 @@ class CfgVehicles
   {
     scope=2;
     displayName="$STR_DZWCG_mich2001helmet0_Italy";
+    hiddenSelections[]=
+		{
+			"camoGround",
+			"camoMale",
+			"camoFemale"
+		};
     hiddenSelectionsTextures[]=
     {
       "DayZ_World_Cup_Gear\characters\headgear\data\mich2001_italy_co.paa",
@@ -112,6 +160,12 @@ class CfgVehicles
   {
     scope=2;
     displayName="$STR_DZWCG_mich2001helmet0_Portugal";
+    hiddenSelections[]=
+		{
+			"camoGround",
+			"camoMale",
+			"camoFemale"
+		};
     hiddenSelectionsTextures[]=
     {
       "DayZ_World_Cup_Gear\characters\headgear\data\mich2001_portugal_co.paa",
@@ -124,6 +178,12 @@ class CfgVehicles
   {
     scope=2;
     displayName="$STR_DZWCG_mich2001helmet0_Scotland";
+    hiddenSelections[]=
+		{
+			"camoGround",
+			"camoMale",
+			"camoFemale"
+		};
     hiddenSelectionsTextures[]=
     {
       "DayZ_World_Cup_Gear\characters\headgear\data\mich2001_scotland_co.paa",
@@ -136,6 +196,12 @@ class CfgVehicles
   {
     scope=2;
     displayName="$STR_DZWCG_mich2001helmet0_SouthAfrica";
+    hiddenSelections[]=
+		{
+			"camoGround",
+			"camoMale",
+			"camoFemale"
+		};
     hiddenSelectionsTextures[]=
     {
       "DayZ_World_Cup_Gear\characters\headgear\data\mich2001_south_africa_co.paa",
@@ -148,6 +214,12 @@ class CfgVehicles
   {
     scope=2;
     displayName="$STR_DZWCG_mich2001helmet0_SouthKorea";
+    hiddenSelections[]=
+		{
+			"camoGround",
+			"camoMale",
+			"camoFemale"
+		};
     hiddenSelectionsTextures[]=
     {
       "DayZ_World_Cup_Gear\characters\headgear\data\mich2001_south_korea_co.paa",
@@ -160,6 +232,12 @@ class CfgVehicles
   {
     scope=2;
     displayName="$STR_DZWCG_mich2001helmet0_Sweden";
+    hiddenSelections[]=
+		{
+			"camoGround",
+			"camoMale",
+			"camoFemale"
+		};
     hiddenSelectionsTextures[]=
     {
       "DayZ_World_Cup_Gear\characters\headgear\data\mich2001_sweden_co.paa",
@@ -172,6 +250,12 @@ class CfgVehicles
   {
     scope=2;
     displayName="$STR_DZWCG_mich2001helmet0_Wales";
+    hiddenSelections[]=
+		{
+			"camoGround",
+			"camoMale",
+			"camoFemale"
+		};
     hiddenSelectionsTextures[]=
     {
       "DayZ_World_Cup_Gear\characters\headgear\data\mich2001_wales_co.paa",
