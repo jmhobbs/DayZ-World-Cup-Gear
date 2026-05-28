@@ -16,6 +16,7 @@ class CfgVehicles
   {
     scope=2;
     displayName="$STR_DZWCG_mich2001helmet0_USA";
+    color="usa";
     hiddenSelections[]=
 		{
 			"camoGround",
@@ -34,6 +35,7 @@ class CfgVehicles
   {
     scope=2;
     displayName="$STR_DZWCG_mich2001helmet0_Brazil";
+    color="brazil";
     hiddenSelections[]=
 		{
 			"camoGround",
@@ -52,6 +54,7 @@ class CfgVehicles
   {
     scope=2;
     displayName="$STR_DZWCG_mich2001helmet0_Canada";
+    color="canada";
     hiddenSelections[]=
 		{
 			"camoGround",
@@ -70,6 +73,7 @@ class CfgVehicles
   {
     scope=2;
     displayName="$STR_DZWCG_mich2001helmet0_Denmark";
+    color="denmark";
     hiddenSelections[]=
 		{
 			"camoGround",
@@ -88,6 +92,7 @@ class CfgVehicles
   {
     scope=2;
     displayName="$STR_DZWCG_mich2001helmet0_England";
+    color="england";
     hiddenSelections[]=
 		{
 			"camoGround",
@@ -106,6 +111,7 @@ class CfgVehicles
   {
     scope=2;
     displayName="$STR_DZWCG_mich2001helmet0_France";
+    color="france";
     hiddenSelections[]=
 		{
 			"camoGround",
@@ -124,6 +130,7 @@ class CfgVehicles
   {
     scope=2;
     displayName="$STR_DZWCG_mich2001helmet0_Ireland";
+    color="ireland";
     hiddenSelections[]=
 		{
 			"camoGround",
@@ -142,6 +149,7 @@ class CfgVehicles
   {
     scope=2;
     displayName="$STR_DZWCG_mich2001helmet0_Italy";
+    color="italy";
     hiddenSelections[]=
 		{
 			"camoGround",
@@ -160,6 +168,7 @@ class CfgVehicles
   {
     scope=2;
     displayName="$STR_DZWCG_mich2001helmet0_Portugal";
+    color="portugal";
     hiddenSelections[]=
 		{
 			"camoGround",
@@ -178,6 +187,7 @@ class CfgVehicles
   {
     scope=2;
     displayName="$STR_DZWCG_mich2001helmet0_Scotland";
+    color="scotland";
     hiddenSelections[]=
 		{
 			"camoGround",
@@ -196,6 +206,7 @@ class CfgVehicles
   {
     scope=2;
     displayName="$STR_DZWCG_mich2001helmet0_SouthAfrica";
+    color="southAfrica";
     hiddenSelections[]=
 		{
 			"camoGround",
@@ -214,6 +225,7 @@ class CfgVehicles
   {
     scope=2;
     displayName="$STR_DZWCG_mich2001helmet0_SouthKorea";
+    color="southKorea";
     hiddenSelections[]=
 		{
 			"camoGround",
@@ -232,6 +244,7 @@ class CfgVehicles
   {
     scope=2;
     displayName="$STR_DZWCG_mich2001helmet0_Sweden";
+    color="sweden";
     hiddenSelections[]=
 		{
 			"camoGround",
@@ -250,6 +263,7 @@ class CfgVehicles
   {
     scope=2;
     displayName="$STR_DZWCG_mich2001helmet0_Wales";
+    color="wales";
     hiddenSelections[]=
 		{
 			"camoGround",

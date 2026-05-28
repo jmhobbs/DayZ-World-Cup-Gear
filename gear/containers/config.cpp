@@ -19,6 +19,7 @@ class CfgVehicles
   class PlateCarrierPouches_WorldCup_USA: PlateCarrierPouches
   {
     displayName="$STR_DZWCG_carrierpouches0_USA";
+    color="usa";
     hiddenSelections[]=
     {
       "camoGround"
@@ -34,6 +35,7 @@ class CfgVehicles
   class PlateCarrierPouches_WorldCup_Brazil: PlateCarrierPouches
   {
     displayName="$STR_DZWCG_carrierpouches0_Brazil";
+    color="brazil";
     hiddenSelections[]=
     {
       "camoGround"
@@ -49,6 +51,7 @@ class CfgVehicles
   class PlateCarrierPouches_WorldCup_Canada: PlateCarrierPouches
   {
     displayName="$STR_DZWCG_carrierpouches0_Canada";
+    color="canada";
     hiddenSelections[]=
     {
       "camoGround"
@@ -64,6 +67,7 @@ class CfgVehicles
   class PlateCarrierPouches_WorldCup_Denmark: PlateCarrierPouches
   {
     displayName="$STR_DZWCG_carrierpouches0_Denmark";
+    color="denmark";
     hiddenSelections[]=
     {
       "camoGround"
@@ -79,6 +83,7 @@ class CfgVehicles
   class PlateCarrierPouches_WorldCup_England: PlateCarrierPouches
   {
     displayName="$STR_DZWCG_carrierpouches0_England";
+    color="england";
     hiddenSelections[]=
     {
       "camoGround"
@@ -94,6 +99,7 @@ class CfgVehicles
   class PlateCarrierPouches_WorldCup_France: PlateCarrierPouches
   {
     displayName="$STR_DZWCG_carrierpouches0_France";
+    color="france";
     hiddenSelections[]=
     {
       "camoGround"
@@ -109,6 +115,7 @@ class CfgVehicles
   class PlateCarrierPouches_WorldCup_Ireland: PlateCarrierPouches
   {
     displayName="$STR_DZWCG_carrierpouches0_Ireland";
+    color="ireland";
     hiddenSelections[]=
     {
       "camoGround"
@@ -124,6 +131,7 @@ class CfgVehicles
   class PlateCarrierPouches_WorldCup_Italy: PlateCarrierPouches
   {
     displayName="$STR_DZWCG_carrierpouches0_Italy";
+    color="italy";
     hiddenSelections[]=
     {
       "camoGround"
@@ -139,6 +147,7 @@ class CfgVehicles
   class PlateCarrierPouches_WorldCup_Portugal: PlateCarrierPouches
   {
     displayName="$STR_DZWCG_carrierpouches0_Portugal";
+    color="portugal";
     hiddenSelections[]=
     {
       "camoGround"
@@ -154,6 +163,7 @@ class CfgVehicles
   class PlateCarrierPouches_WorldCup_Scotland: PlateCarrierPouches
   {
     displayName="$STR_DZWCG_carrierpouches0_Scotland";
+    color="scotland";
     hiddenSelections[]=
     {
       "camoGround"
@@ -169,6 +179,7 @@ class CfgVehicles
   class PlateCarrierPouches_WorldCup_SouthAfrica: PlateCarrierPouches
   {
     displayName="$STR_DZWCG_carrierpouches0_SouthAfrica";
+    color="southAfrica";
     hiddenSelections[]=
     {
       "camoGround"
@@ -184,6 +195,7 @@ class CfgVehicles
   class PlateCarrierPouches_WorldCup_SouthKorea: PlateCarrierPouches
   {
     displayName="$STR_DZWCG_carrierpouches0_SouthKorea";
+    color="southKorea";
     hiddenSelections[]=
     {
       "camoGround"
@@ -199,6 +211,7 @@ class CfgVehicles
   class PlateCarrierPouches_WorldCup_Sweden: PlateCarrierPouches
   {
     displayName="$STR_DZWCG_carrierpouches0_Sweden";
+    color="sweden";
     hiddenSelections[]=
     {
       "camoGround"
@@ -214,6 +227,7 @@ class CfgVehicles
   class PlateCarrierPouches_WorldCup_Wales: PlateCarrierPouches
   {
     displayName="$STR_DZWCG_carrierpouches0_Wales";
+    color="wales";
     hiddenSelections[]=
     {
       "camoGround"
