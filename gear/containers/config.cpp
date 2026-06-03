@@ -239,4 +239,20 @@ class CfgVehicles
       "DayZ_World_Cup_Gear\characters\vests\data\ballisticvest_wales_co.paa"
     };
   };
+
+  class PlateCarrierPouches_WorldCup_Russia: PlateCarrierPouches
+  {
+    displayName="$STR_DZWCG_carrierpouches0_Russia";
+    color="russia";
+    hiddenSelections[]=
+    {
+      "camoGround"
+    };
+    hiddenSelectionsTextures[]=
+    {
+      "DayZ_World_Cup_Gear\characters\vests\data\ballisticvest_russia_co.paa",
+      "DayZ_World_Cup_Gear\characters\vests\data\ballisticvest_russia_co.paa",
+      "DayZ_World_Cup_Gear\characters\vests\data\ballisticvest_russia_co.paa"
+    };
+  };
 };

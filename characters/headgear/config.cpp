@@ -277,4 +277,23 @@ class CfgVehicles
       "DayZ_World_Cup_Gear\characters\headgear\data\mich2001_wales_co.paa"
     };
   };
+
+  class Mich2001Helmet_WorldCup_Russia : Mich2001Helmet
+  {
+    scope=2;
+    displayName="$STR_DZWCG_mich2001helmet0_Russia";
+    color="russia";
+    hiddenSelections[]=
+		{
+			"camoGround",
+			"camoMale",
+			"camoFemale"
+		};
+    hiddenSelectionsTextures[]=
+    {
+      "DayZ_World_Cup_Gear\characters\headgear\data\mich2001_russia_co.paa",
+      "DayZ_World_Cup_Gear\characters\headgear\data\mich2001_russia_co.paa",
+      "DayZ_World_Cup_Gear\characters\headgear\data\mich2001_russia_co.paa"
+    };
+  };
 };
