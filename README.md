@@ -2,7 +2,7 @@
 
 This is the source of the [DayZ World Cup Gear](https://steamcommunity.com/sharedfiles/filedetails/?id=3734555901) mod.
 
-This mod was created for the DayZ World Cup event by [hitty](https://www.twitch.tv/hittty)
+This mod was created for the DayZ World Cup event by [hittty](https://www.twitch.tv/hittty)
 
 ## Contents
 
